@@ -1,0 +1,10 @@
+AI_Tool,Tool_Category,Farmers_Reached,Avg_Yield_Boost_Pct,Water_Saved_Pct,Cost_Saved_Pct,Satisfaction_Score,States_Deployed
+Drone Spraying,Precision Agriculture,285000,18,25,15,4.2,12
+Soil Sensors,IoT & Monitoring,198000,14,30,12,4,9
+Weather AI,Predictive Analytics,342000,22,20,18,4.5,15
+Crop Monitoring,Remote Sensing,267000,16,18,14,3.9,11
+AI Irrigation,Smart Water Mgmt,221000,19,40,20,4.4,10
+Pest Detection AI,Computer Vision,189000,21,0,16,4.3,8
+Yield Prediction,ML Forecasting,156000,17,10,11,4.1,7
+Market Price AI,NLP & Analytics,134000,12,0,22,4.6,6
+Full AI Stack,Integrated Platform,98000,28,35,28,4.7,5

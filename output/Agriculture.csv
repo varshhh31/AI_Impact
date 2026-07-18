@@ -1,0 +1,36 @@
+Year,State,Crop_Type,AI_Tool_Used,Adoption_Rate_Pct,Yield_Improvement_Pct,Cost_Reduction_Pct,Farmers_Using_AI,Govt_Scheme_Support,Investment_Cr
+2019,Punjab,Wheat,Drone Spraying,12,8,5,42000,PM-KISAN,120
+2019,Maharashtra,Cotton,Soil Sensors,10,6,4,35000,Digital India,95
+2019,Tamil Nadu,Rice,Weather AI,15,10,7,58000,ICAR Scheme,140
+2019,UP,Sugarcane,Crop Monitoring,8,5,3,29000,PM-KISAN,80
+2019,Karnataka,Horticulture,AI Irrigation,18,12,9,21000,State Scheme,110
+2020,Punjab,Wheat,Drone Spraying,18,11,8,63000,PM-KISAN,185
+2020,Maharashtra,Cotton,Soil Sensors,15,9,6,52000,Digital India,145
+2020,Tamil Nadu,Rice,Weather AI,22,14,10,84000,ICAR Scheme,210
+2020,UP,Sugarcane,Crop Monitoring,12,8,5,43000,PM-KISAN,120
+2020,Karnataka,Horticulture,AI Irrigation,25,16,12,31000,State Scheme,165
+2021,Punjab,Wheat,Precision Farming,26,16,12,91000,PM-KISAN,270
+2021,Maharashtra,Cotton,Pest Detection AI,22,14,9,76000,Digital India,210
+2021,Tamil Nadu,Rice,Smart Irrigation,30,19,14,122000,ICAR Scheme,300
+2021,UP,Sugarcane,Yield Prediction,18,12,8,62000,PM-KISAN,175
+2021,Karnataka,Horticulture,Market Price AI,33,21,16,45000,State Scheme,240
+2022,Punjab,Wheat,Precision Farming,34,21,16,122000,PM-KISAN,380
+2022,Maharashtra,Cotton,Pest Detection AI,29,18,12,102000,Digital India,295
+2022,Tamil Nadu,Rice,Smart Irrigation,39,25,18,163000,ICAR Scheme,415
+2022,UP,Sugarcane,Yield Prediction,24,16,11,83000,PM-KISAN,240
+2022,Karnataka,Horticulture,Market Price AI,42,27,20,61000,State Scheme,330
+2023,Punjab,Wheat,AI + Drone,43,27,20,155000,PM-KISAN,510
+2023,Maharashtra,Cotton,AI + Soil,37,24,16,131000,Digital India,395
+2023,Tamil Nadu,Rice,Full AI Stack,49,31,23,207000,ICAR Scheme,555
+2023,UP,Sugarcane,Yield Prediction,31,20,14,107000,PM-KISAN,320
+2023,Karnataka,Horticulture,Market Price AI,52,33,25,78000,State Scheme,440
+2024,Punjab,Wheat,AI + Drone,53,33,25,191000,PM-KISAN,655
+2024,Maharashtra,Cotton,AI + Soil,46,29,20,162000,Digital India,505
+2024,Tamil Nadu,Rice,Full AI Stack,60,38,28,255000,ICAR Scheme,710
+2024,UP,Sugarcane,AI Platform,39,25,18,132000,PM-KISAN,410
+2024,Karnataka,Horticulture,Smart Agri AI,63,40,30,96000,State Scheme,565
+2025,Punjab,Wheat,AI + Drone,62,38,29,224000,PM-KISAN,800
+2025,Maharashtra,Cotton,AI + Soil,54,34,24,190000,Digital India,615
+2025,Tamil Nadu,Rice,Full AI Stack,70,44,33,298000,ICAR Scheme,860
+2025,UP,Sugarcane,AI Platform,47,30,22,154000,PM-KISAN,495
+2025,Karnataka,Horticulture,Smart Agri AI,73,46,35,112000,State Scheme,685

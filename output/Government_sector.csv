@@ -1,0 +1,201 @@
+Year,Quarter,Service_Type,Ministry_Department,Region,Total_Requests,AI_Processed_Requests,Resolved_Requests,Resolution_Rate_%,Avg_Processing_Time_Days,Error_Rate_%,Cost_Per_Request_INR,Citizen_Complaints,Repeat_Requests_%,Digital_Adoption_Rate_%,Fraud_Cases_Detected,Fraud_Amount_Saved_Lakh_INR
+2023,Q2,Grievance Redressal,Ministry of Law & Justice,East India,167119,117721,88609,53.0,12.1,10.8,1729.53,899,2.6,54.9,153,126.55
+2019,Q4,Healthcare Schemes,Ministry of Rural Development,East India,183698,65230,140187,76.3,7.1,13.0,1425.47,484,25.3,57.7,117,313.12
+2022,Q4,Subsidy Distribution,Ministry of Rural Development,Central India,260012,56026,208236,80.1,27.6,10.2,1607.46,934,28.6,63.7,162,754.37
+2021,Q3,Grievance Redressal,Ministry of Health,South India,94532,63100,53799,56.9,25.7,6.1,1519.66,825,17.9,91.9,404,36.35
+2020,Q3,Healthcare Schemes,Ministry of Skill Development,East India,43758,20606,23285,53.2,6.4,12.4,1721.62,444,22.5,85.1,348,589.13
+2021,Q2,Land Records,Ministry of IT,North India,161816,54969,134149,82.9,10.2,8.3,1847.92,158,21.8,52.3,295,176.86
+2020,Q2,Tax Filing,Ministry of IT,West India,249576,104033,206978,82.9,25.6,12.1,960.97,147,10.2,68.8,210,515.91
+2019,Q4,Passport Services,Ministry of Commerce,South India,80546,72171,71223,88.4,11.6,7.1,511.95,628,18.7,94.5,456,781.56
+2020,Q1,Passport Services,Ministry of Rural Development,South India,471912,271707,276390,58.6,11.3,3.9,1382.03,794,28.0,42.1,366,561.55
+2022,Q3,Permit Approvals,Ministry of Environment,North India,303356,187852,257238,84.8,27.2,4.8,882.18,149,10.0,25.5,428,737.87
+2021,Q3,Education Enrollment,Ministry of Agriculture,South India,143358,65123,101348,70.7,8.0,9.8,194.05,975,4.4,48.8,116,120.17
+2024,Q2,Education Enrollment,Ministry of Education,West India,287739,75645,238777,83.0,28.8,7.3,599.76,685,2.3,72.1,374,517.83
+2022,Q2,Subsidy Distribution,Ministry of Science & Technology,Central India,416370,156163,243681,58.5,11.0,7.9,88.01,751,7.9,53.8,487,391.05
+2020,Q4,Land Records,Ministry of Skill Development,West India,31737,13305,26693,84.1,28.1,5.9,532.77,486,6.7,75.1,405,197.25
+2019,Q3,Permit Approvals,Ministry of Health,North India,402797,141071,332905,82.6,25.7,2.0,350.12,318,14.3,23.3,432,726.88
+2019,Q4,Passport Services,Ministry of Agriculture,Central India,426720,281130,220922,51.8,3.8,5.0,841.33,144,19.2,36.6,381,527.73
+2024,Q1,License Renewal,Ministry of Environment,North India,215516,160823,139082,64.5,8.6,6.2,609.71,599,16.7,34.3,498,336.32
+2023,Q1,Police Complaints,Ministry of Rural Development,East India,352744,289650,228508,64.8,19.7,6.7,930.94,736,17.3,49.1,375,188.38
+2020,Q2,Police Complaints,Ministry of Health,West India,115680,77532,90519,78.2,12.7,7.0,965.0,517,17.2,80.2,286,305.81
+2020,Q1,Permit Approvals,Ministry of Skill Development,West India,442799,134025,267518,60.4,9.2,3.5,1348.38,459,13.3,80.9,262,732.36
+2023,Q2,Tax Filing,Ministry of Agriculture,Central India,365774,119386,303825,83.1,26.0,2.1,704.59,648,19.4,51.2,240,952.39
+2021,Q3,License Renewal,Ministry of Skill Development,South India,429949,96103,412842,96.0,16.9,8.4,1396.44,433,24.7,49.5,322,276.22
+2021,Q4,License Renewal,Ministry of Urban Development,West India,483832,274023,290683,60.1,15.3,14.7,1363.1,899,14.0,90.7,335,770.06
+2022,Q4,Grievance Redressal,Ministry of Rural Development,East India,430396,212314,269737,62.7,10.3,11.6,233.09,975,27.6,63.3,128,28.96
+2023,Q2,Passport Services,Ministry of Commerce,East India,203598,76758,151131,74.2,10.7,9.8,437.48,750,12.0,76.9,2,144.53
+2023,Q4,Land Records,Ministry of Commerce,West India,284362,65701,180678,63.5,27.5,5.0,1384.15,297,13.1,72.0,255,348.49
+2020,Q2,Grievance Redressal,Ministry of Education,South India,364960,93841,293674,80.5,21.0,8.9,1218.42,683,8.6,61.0,455,583.03
+2019,Q3,Police Complaints,Ministry of Finance,East India,246283,83966,170130,69.1,8.0,3.2,603.4,809,22.2,51.2,31,497.4
+2024,Q1,Education Enrollment,Ministry of IT,Central India,267822,184696,264582,98.8,11.6,11.1,1430.9,197,20.4,21.2,301,488.51
+2024,Q1,Education Enrollment,Ministry of Agriculture,East India,275393,116574,257635,93.6,29.9,14.5,274.24,789,5.8,83.0,378,948.84
+2022,Q2,Subsidy Distribution,Ministry of Rural Development,East India,453494,118382,303762,67.0,18.7,8.5,653.19,469,2.4,30.1,436,605.25
+2020,Q2,Tax Filing,Ministry of Agriculture,Central India,174040,144951,170899,98.2,24.5,4.3,1698.85,561,13.9,30.3,418,23.54
+2019,Q4,Passport Services,Ministry of Education,East India,419436,173595,377511,90.0,1.0,13.1,56.7,875,14.9,72.3,488,891.75
+2024,Q1,Education Enrollment,Ministry of IT,North India,250393,221388,154847,61.8,14.2,6.2,568.43,684,4.3,86.0,459,880.94
+2023,Q4,Land Records,Ministry of Education,East India,463164,173173,338143,73.0,9.0,10.2,116.64,751,27.6,88.8,332,785.43
+2022,Q1,Grievance Redressal,Ministry of Health,East India,247407,89442,230845,93.3,24.9,14.0,444.85,354,27.8,37.5,277,507.47
+2019,Q4,Police Complaints,Ministry of Rural Development,East India,369166,247967,259494,70.3,26.7,1.1,1971.47,432,15.0,45.8,436,896.02
+2022,Q3,License Renewal,Ministry of Agriculture,Central India,187547,42741,111725,59.6,27.0,2.8,1760.02,661,11.7,32.0,234,552.35
+2021,Q3,Healthcare Schemes,Ministry of Science & Technology,South India,202952,91864,181719,89.5,24.7,14.7,1103.7,956,25.7,63.5,188,774.52
+2022,Q3,Healthcare Schemes,Ministry of Defence,North India,258758,174483,246085,95.1,14.8,13.6,871.16,888,9.5,64.4,64,556.98
+2021,Q2,Land Records,Ministry of Skill Development,East India,123693,49197,79956,64.6,3.2,0.8,680.87,346,10.9,91.9,53,921.12
+2019,Q4,Subsidy Distribution,Ministry of Health,West India,361173,294739,184417,51.1,22.8,8.6,1350.64,1000,16.9,81.5,333,25.03
+2020,Q3,Police Complaints,Ministry of Commerce,East India,478760,190008,460634,96.2,9.5,6.5,537.53,95,12.7,90.0,499,571.64
+2019,Q4,Land Records,Ministry of Health,North India,15885,5436,14533,91.5,16.4,5.1,1586.64,899,10.8,38.2,267,158.04
+2021,Q1,Subsidy Distribution,Ministry of IT,Central India,188425,136262,96848,51.4,1.9,11.5,769.97,384,2.1,46.7,488,15.5
+2021,Q4,Passport Services,Ministry of Health,North India,74044,43124,38547,52.1,24.8,12.3,1600.22,471,26.8,39.9,329,271.25
+2024,Q2,Healthcare Schemes,Ministry of Science & Technology,South India,155975,50501,123578,79.2,3.8,8.8,1612.04,357,15.9,72.9,215,320.98
+2024,Q3,Grievance Redressal,Ministry of Commerce,South India,282289,76243,214256,75.9,16.9,7.7,1875.89,127,7.1,43.3,342,218.88
+2023,Q3,Subsidy Distribution,Ministry of Environment,East India,319243,191652,218528,68.5,14.4,1.2,1566.95,196,27.2,47.2,491,742.61
+2023,Q4,License Renewal,Ministry of Skill Development,Central India,310441,200089,303747,97.8,28.0,8.4,1280.36,804,3.9,72.5,301,195.62
+2021,Q2,Grievance Redressal,Ministry of IT,Central India,434894,304682,379187,87.2,27.6,8.3,1189.91,623,14.7,85.0,253,179.83
+2021,Q2,Permit Approvals,Ministry of Skill Development,South India,163492,126721,128633,78.7,21.7,1.2,1910.81,370,16.3,69.3,113,39.19
+2020,Q1,Education Enrollment,Ministry of Agriculture,West India,448855,360574,383528,85.4,13.0,12.0,887.04,216,10.6,70.5,345,975.13
+2023,Q4,Land Records,Ministry of Urban Development,South India,12644,5380,6910,54.7,21.3,14.0,12.66,339,19.0,72.5,146,462.37
+2021,Q1,Education Enrollment,Ministry of Environment,Central India,432260,267704,277002,64.1,10.7,2.7,1700.88,409,26.8,51.4,230,119.52
+2023,Q3,Tax Filing,Ministry of Defence,East India,446678,370536,379745,85.0,3.5,10.3,661.07,895,9.6,39.5,475,562.41
+2020,Q3,Tax Filing,Ministry of Urban Development,North India,467197,249572,335124,71.7,8.3,14.8,1593.81,851,28.6,61.9,330,965.24
+2022,Q2,Land Records,Ministry of Education,West India,126008,99381,112912,89.6,3.7,4.5,1846.0,109,6.8,60.3,204,6.04
+2022,Q2,Land Records,Ministry of Agriculture,West India,325167,230433,185506,57.0,9.8,13.3,1923.01,848,12.4,90.9,335,453.55
+2019,Q4,Education Enrollment,Ministry of Education,West India,207933,73300,167167,80.4,9.7,3.4,433.48,76,2.2,45.1,359,870.58
+2023,Q1,Healthcare Schemes,Ministry of Transport,West India,214645,51021,185332,86.3,1.8,6.0,1440.23,388,24.7,39.5,121,73.35
+2020,Q1,Subsidy Distribution,Ministry of Urban Development,North India,304264,225227,200718,66.0,18.3,2.2,1068.19,173,25.9,65.8,301,46.36
+2023,Q2,Tax Filing,Ministry of Health,North India,352072,291807,228561,64.9,22.6,13.0,828.28,166,6.9,32.1,318,851.5
+2023,Q4,Passport Services,Ministry of Agriculture,South India,431087,346766,326699,75.8,11.6,14.1,1970.53,628,16.6,30.2,222,731.78
+2024,Q2,Education Enrollment,Ministry of Health,North India,451649,339520,339342,75.1,25.4,7.8,94.47,292,4.8,58.5,440,263.62
+2020,Q3,Tax Filing,Ministry of Environment,North India,281514,62999,175567,62.4,29.9,5.9,1806.38,812,24.6,53.3,372,415.12
+2022,Q3,License Renewal,Ministry of Defence,North India,422399,340078,317787,75.2,14.2,7.3,1855.85,554,2.7,34.7,343,599.98
+2022,Q2,License Renewal,Ministry of Law & Justice,South India,178166,143915,165461,92.9,22.8,10.2,298.28,866,14.0,70.0,342,45.93
+2022,Q1,Passport Services,Ministry of Law & Justice,North India,158968,90404,109053,68.6,2.9,13.9,516.2,619,29.4,27.1,333,249.19
+2020,Q2,Healthcare Schemes,Ministry of Education,Central India,134391,52458,115454,85.9,27.5,14.2,1090.85,716,22.9,92.3,480,613.29
+2023,Q4,Permit Approvals,Ministry of Education,Central India,489310,241167,293695,60.0,24.7,12.8,682.41,944,27.5,55.8,104,984.83
+2024,Q1,Education Enrollment,Ministry of Defence,Central India,297793,152123,186150,62.5,23.5,8.6,691.03,610,17.9,20.8,151,394.94
+2019,Q3,Permit Approvals,Ministry of Health,North India,333047,277107,186449,56.0,27.5,14.9,1120.39,776,22.5,23.9,136,870.19
+2020,Q1,Healthcare Schemes,Ministry of Home Affairs,North India,418987,231933,341771,81.6,2.3,4.3,1001.64,613,6.4,87.7,226,674.55
+2022,Q4,License Renewal,Ministry of IT,Central India,451538,323421,226870,50.2,5.2,11.6,112.56,154,19.4,62.9,297,1.05
+2019,Q1,License Renewal,Ministry of Defence,East India,165681,72438,117449,70.9,21.4,0.6,1950.35,147,3.7,56.7,299,794.62
+2021,Q4,Land Records,Ministry of Science & Technology,East India,431597,95406,311101,72.1,26.6,1.8,782.37,915,14.5,24.7,110,602.81
+2023,Q1,Tax Filing,Ministry of Skill Development,Central India,223680,89987,156440,69.9,19.4,14.8,910.99,918,21.0,60.9,324,775.49
+2023,Q3,Passport Services,Ministry of Commerce,North India,397508,164728,241946,60.9,4.8,7.6,1790.41,898,15.7,37.4,298,775.23
+2019,Q4,License Renewal,Ministry of Skill Development,Central India,212574,185424,209255,98.4,20.1,12.2,1868.13,451,10.1,62.5,127,412.21
+2021,Q3,Land Records,Ministry of Finance,East India,436593,113797,380643,87.2,22.5,2.4,1299.26,472,7.5,24.5,271,797.99
+2022,Q4,Subsidy Distribution,Ministry of Urban Development,North India,473775,393644,303607,64.1,11.5,1.2,1901.95,122,18.8,54.8,306,876.04
+2019,Q1,Grievance Redressal,Ministry of Defence,Central India,305356,226433,290372,95.1,9.4,3.4,1481.71,990,11.8,49.5,117,695.47
+2020,Q3,Grievance Redressal,Ministry of Law & Justice,East India,335290,291371,299724,89.4,7.2,0.5,744.81,133,21.9,48.2,303,182.79
+2019,Q1,Passport Services,Ministry of Transport,Central India,182067,119830,152484,83.8,26.9,10.0,1827.66,57,29.2,41.2,16,672.97
+2020,Q4,Police Complaints,Ministry of Science & Technology,West India,254852,214383,131286,51.5,23.5,1.8,1967.16,284,22.3,62.5,332,6.1
+2024,Q4,Police Complaints,Ministry of Defence,North India,176655,126158,165377,93.6,25.3,7.7,1343.53,134,23.1,75.7,169,38.47
+2019,Q4,Grievance Redressal,Ministry of Rural Development,East India,345146,207591,298638,86.5,8.9,12.0,1339.22,263,27.7,40.0,494,514.25
+2024,Q1,Grievance Redressal,Ministry of Defence,East India,220306,122730,118851,53.9,16.0,13.0,434.35,994,15.5,48.8,449,109.48
+2023,Q3,Subsidy Distribution,Ministry of Commerce,Central India,158592,132027,156897,98.9,16.5,10.1,554.54,325,9.3,28.5,166,273.2
+2020,Q3,Education Enrollment,Ministry of Agriculture,North India,282714,187355,244577,86.5,21.1,12.3,858.9,891,22.6,76.2,20,397.81
+2021,Q3,Healthcare Schemes,Ministry of Environment,North India,15304,13239,14147,92.4,23.7,1.0,1633.47,403,13.1,41.1,270,406.68
+2021,Q3,Education Enrollment,Ministry of Skill Development,West India,188840,116769,99247,52.6,21.1,8.7,344.27,691,9.9,70.4,472,537.53
+2022,Q1,Land Records,Ministry of Defence,West India,477540,308293,441555,92.5,11.3,14.0,602.29,582,14.6,93.4,147,974.14
+2024,Q3,Healthcare Schemes,Ministry of Finance,South India,197140,64965,165875,84.1,7.7,14.2,303.52,56,8.7,33.6,7,912.63
+2024,Q3,Permit Approvals,Ministry of Rural Development,North India,459862,358392,446983,97.2,29.4,11.3,1335.72,315,20.6,90.6,217,287.51
+2022,Q4,Land Records,Ministry of Defence,East India,413799,208878,340680,82.3,26.0,4.1,1074.51,135,12.1,43.7,360,275.35
+2022,Q1,Police Complaints,Ministry of Transport,East India,13267,6136,12649,95.3,3.6,5.0,243.55,557,2.5,93.3,399,825.15
+2021,Q4,Land Records,Ministry of Skill Development,West India,381102,128041,262096,68.8,19.7,11.3,1672.58,892,22.7,31.2,179,892.88
+2022,Q2,Police Complaints,Ministry of Skill Development,South India,251043,202364,192122,76.5,21.7,13.2,1218.8,596,7.0,75.4,272,77.61
+2021,Q4,Police Complaints,Ministry of Transport,North India,201517,81515,179024,88.8,16.6,3.2,927.37,988,27.3,89.9,307,913.14
+2019,Q4,Passport Services,Ministry of Agriculture,Central India,394870,139732,304097,77.0,3.6,5.7,767.74,751,24.7,78.2,128,439.59
+2021,Q3,Education Enrollment,Ministry of Home Affairs,West India,408540,263503,317605,77.7,12.2,0.6,197.75,670,23.5,22.9,52,178.45
+2022,Q2,License Renewal,Ministry of Defence,West India,482042,323640,474714,98.5,25.1,12.7,1471.94,112,24.4,31.0,67,661.71
+2021,Q1,License Renewal,Ministry of Defence,South India,407167,180024,299287,73.5,13.6,12.3,144.06,152,10.8,62.9,448,504.67
+2019,Q4,Passport Services,Ministry of Home Affairs,West India,7854,2237,5942,75.7,5.3,11.5,668.62,278,21.3,23.6,93,538.45
+2022,Q4,Tax Filing,Ministry of Urban Development,Central India,406172,337508,265904,65.5,11.5,11.7,522.47,264,9.6,60.9,373,161.85
+2019,Q4,Land Records,Ministry of Education,Central India,87573,32572,69092,78.9,3.7,14.2,1470.15,758,16.9,88.2,326,41.28
+2023,Q1,Education Enrollment,Ministry of Skill Development,Central India,152550,126974,77947,51.1,15.7,12.6,1929.06,82,9.7,50.9,398,562.5
+2020,Q3,License Renewal,Ministry of Science & Technology,North India,433495,179824,265969,61.4,4.8,4.2,1137.85,787,11.3,31.7,273,296.35
+2022,Q2,Healthcare Schemes,Ministry of Science & Technology,South India,193125,168109,153352,79.4,23.8,11.9,151.2,955,3.3,65.8,104,395.21
+2020,Q1,Permit Approvals,Ministry of Environment,West India,341060,229115,221518,64.9,21.9,14.5,1733.64,919,13.2,21.5,128,4.13
+2019,Q1,Permit Approvals,Ministry of Rural Development,East India,268175,234237,147598,55.0,19.6,1.5,1412.16,852,2.5,35.3,63,647.67
+2023,Q1,Tax Filing,Ministry of Health,West India,304926,84926,247758,81.3,11.5,8.7,1021.92,751,18.5,87.3,232,903.38
+2019,Q2,Subsidy Distribution,Ministry of Environment,South India,203111,60179,102199,50.3,14.3,9.8,1626.21,619,15.9,67.1,283,314.02
+2021,Q4,Education Enrollment,Ministry of Skill Development,North India,171233,68164,112562,65.7,2.7,13.3,261.78,372,15.7,68.1,416,497.28
+2022,Q1,Grievance Redressal,Ministry of Skill Development,South India,254218,109627,173584,68.3,19.2,1.3,78.98,713,12.6,26.8,386,591.2
+2019,Q1,License Renewal,Ministry of IT,South India,166801,92251,85053,51.0,13.2,5.8,1503.48,300,5.2,78.6,226,517.09
+2019,Q4,Grievance Redressal,Ministry of IT,Central India,12523,3034,10565,84.4,20.8,1.7,1670.18,562,6.8,41.4,233,440.95
+2020,Q1,Education Enrollment,Ministry of Agriculture,Central India,5295,2990,5229,98.8,9.4,4.7,559.74,832,6.0,65.4,68,858.59
+2021,Q1,Tax Filing,Ministry of Finance,North India,190250,109619,98448,51.7,8.6,14.4,634.02,458,25.1,83.7,235,361.92
+2024,Q1,Tax Filing,Ministry of Environment,Central India,273538,56344,262691,96.0,8.8,12.1,1389.66,703,18.8,89.2,339,325.63
+2019,Q3,Permit Approvals,Ministry of Law & Justice,North India,155830,74706,100843,64.7,2.6,3.8,842.74,446,17.8,87.4,134,468.22
+2021,Q3,Permit Approvals,Ministry of Rural Development,South India,364000,96247,203412,55.9,22.3,6.2,1980.8,486,14.3,57.9,431,475.37
+2022,Q1,Healthcare Schemes,Ministry of Health,West India,431152,217806,250973,58.2,26.2,7.8,467.4,614,13.6,21.3,208,523.25
+2019,Q1,License Renewal,Ministry of Environment,East India,148311,109042,85678,57.8,27.1,1.8,1837.95,113,5.8,64.2,337,151.95
+2022,Q2,Education Enrollment,Ministry of Urban Development,North India,90436,58850,55143,61.0,20.2,12.2,1377.29,219,5.5,68.6,177,369.47
+2024,Q2,Education Enrollment,Ministry of Home Affairs,Central India,244596,146257,190402,77.8,27.0,12.0,230.64,167,6.3,28.3,491,848.89
+2021,Q4,Permit Approvals,Ministry of IT,South India,195965,90470,117185,59.8,1.3,6.2,367.75,452,6.9,88.5,442,442.85
+2024,Q3,Land Records,Ministry of Education,East India,498662,237817,375355,75.3,10.5,5.2,1389.23,510,10.5,37.0,393,554.01
+2024,Q2,Tax Filing,Ministry of Home Affairs,North India,481728,226230,416937,86.6,27.7,1.2,811.6,976,22.3,78.8,190,378.2
+2024,Q2,Healthcare Schemes,Ministry of Science & Technology,Central India,198498,96644,187053,94.2,9.0,5.0,1483.18,508,29.3,49.5,458,101.6
+2024,Q3,Subsidy Distribution,Ministry of Skill Development,South India,37151,30676,27118,73.0,24.6,12.4,54.21,118,6.1,71.2,408,65.27
+2023,Q1,Education Enrollment,Ministry of Rural Development,South India,176212,74421,149240,84.7,25.5,11.5,1690.17,538,22.4,25.1,428,218.98
+2024,Q1,Land Records,Ministry of Transport,East India,232153,60945,194300,83.7,7.6,13.6,435.05,785,12.9,41.6,474,488.66
+2019,Q1,Tax Filing,Ministry of Law & Justice,East India,275235,174549,232640,84.5,5.2,1.8,355.55,472,13.4,24.7,57,944.73
+2024,Q4,Passport Services,Ministry of IT,East India,62786,45218,38851,61.9,29.7,13.4,1610.24,937,9.9,26.5,358,15.44
+2023,Q1,Tax Filing,Ministry of Urban Development,Central India,88305,40372,50194,56.8,24.5,4.8,1043.39,710,5.6,90.4,27,403.37
+2021,Q1,Education Enrollment,Ministry of Commerce,South India,492389,268328,452296,91.9,24.3,2.0,597.94,717,4.9,82.1,96,153.11
+2022,Q4,Passport Services,Ministry of Science & Technology,Central India,297636,61700,244958,82.3,25.9,4.9,1282.72,842,23.4,62.6,377,699.88
+2023,Q2,Passport Services,Ministry of Law & Justice,South India,493564,370272,268057,54.3,13.0,4.0,1014.75,478,14.9,82.0,467,208.29
+2021,Q1,Tax Filing,Ministry of Law & Justice,South India,178630,102651,123926,69.4,13.6,10.8,661.17,816,3.1,53.6,379,595.85
+2022,Q2,Tax Filing,Ministry of Skill Development,South India,71135,63279,42268,59.4,26.3,7.9,1503.22,814,7.7,20.4,25,446.12
+2024,Q4,Permit Approvals,Ministry of Skill Development,North India,195343,50625,188765,96.6,19.8,14.9,125.92,482,3.5,61.0,290,480.74
+2024,Q3,Land Records,Ministry of Agriculture,West India,159686,119642,154623,96.8,22.7,3.4,687.27,342,23.1,72.9,300,217.79
+2020,Q4,Tax Filing,Ministry of Finance,South India,354443,260234,217946,61.5,24.0,5.0,193.58,104,8.8,33.8,55,958.09
+2022,Q1,Passport Services,Ministry of Transport,South India,447855,203668,386551,86.3,12.4,12.3,445.91,738,10.2,66.4,5,546.28
+2020,Q1,Passport Services,Ministry of Environment,Central India,301950,136545,164346,54.4,23.6,7.0,1003.3,416,4.6,71.1,354,429.04
+2021,Q4,Land Records,Ministry of Law & Justice,North India,425392,203449,225546,53.0,28.8,0.6,675.26,713,2.7,56.8,87,110.18
+2023,Q2,Subsidy Distribution,Ministry of Defence,South India,274185,223964,238876,87.1,3.2,13.5,1613.56,303,9.1,62.4,152,406.62
+2021,Q1,Healthcare Schemes,Ministry of IT,East India,201234,89834,111172,55.2,21.6,12.8,485.75,496,7.6,23.6,51,833.39
+2021,Q2,Police Complaints,Ministry of Home Affairs,Central India,5923,2484,4734,79.9,12.0,2.7,1818.1,884,19.4,20.6,255,66.46
+2024,Q1,Tax Filing,Ministry of Defence,East India,296361,88649,155694,52.5,24.9,6.8,973.05,7,8.8,49.0,338,904.39
+2020,Q4,Land Records,Ministry of Education,South India,492632,378463,312983,63.5,21.6,3.4,308.22,891,7.5,50.8,138,696.43
+2020,Q2,Grievance Redressal,Ministry of Defence,East India,454047,291636,356594,78.5,18.8,10.3,1436.47,41,7.5,66.7,240,175.65
+2021,Q1,Tax Filing,Ministry of Finance,South India,100830,45648,61973,61.5,16.5,7.2,134.3,214,17.0,22.7,474,892.13
+2023,Q3,Land Records,Ministry of Health,South India,498062,321588,282076,56.6,27.1,1.8,832.29,142,3.0,88.7,17,250.26
+2024,Q3,Permit Approvals,Ministry of IT,South India,276333,110397,260260,94.2,1.3,10.5,769.55,28,26.2,81.3,332,371.66
+2023,Q4,Land Records,Ministry of Home Affairs,Central India,244833,176827,165748,67.7,19.8,8.6,423.62,134,20.1,52.5,216,970.92
+2019,Q3,Healthcare Schemes,Ministry of Home Affairs,East India,332772,196760,310525,93.3,8.6,8.3,1542.99,760,15.9,33.9,323,396.41
+2019,Q3,Tax Filing,Ministry of Health,Central India,462981,175165,326124,70.4,21.7,5.9,499.2,995,27.3,34.9,266,264.32
+2022,Q1,License Renewal,Ministry of Home Affairs,South India,245846,161485,134184,54.6,27.8,6.8,271.85,6,14.4,35.8,8,501.78
+2020,Q2,Healthcare Schemes,Ministry of Science & Technology,South India,20663,15224,18321,88.7,2.1,12.3,1693.74,630,19.6,38.4,408,95.95
+2022,Q3,Subsidy Distribution,Ministry of Law & Justice,Central India,419612,283756,411576,98.1,2.7,5.8,1848.47,437,13.3,50.2,411,61.96
+2019,Q1,License Renewal,Ministry of Home Affairs,East India,50899,26473,27711,54.4,23.7,10.7,1541.91,137,8.4,22.9,206,384.13
+2019,Q3,Permit Approvals,Ministry of Defence,East India,204117,87008,196000,96.0,8.0,2.5,324.36,697,8.9,36.2,231,514.23
+2020,Q4,Education Enrollment,Ministry of Education,North India,86457,65619,55846,64.6,12.1,15.0,955.42,988,7.5,24.7,22,431.01
+2022,Q2,Education Enrollment,Ministry of Urban Development,East India,429034,317592,318627,74.3,13.7,12.2,1589.52,205,19.5,30.1,490,257.72
+2020,Q3,Tax Filing,Ministry of Science & Technology,South India,345639,132710,225551,65.3,0.6,14.1,918.44,698,28.0,91.0,497,190.29
+2019,Q1,Passport Services,Ministry of Rural Development,West India,448146,193259,259530,57.9,5.8,10.7,1802.06,685,21.7,61.5,476,852.69
+2019,Q4,Police Complaints,Ministry of Finance,East India,376338,295187,369182,98.1,5.5,12.0,1985.18,521,18.5,24.4,494,4.32
+2019,Q2,Subsidy Distribution,Ministry of IT,West India,266971,142500,155510,58.2,2.0,7.3,462.04,244,7.5,53.9,434,895.02
+2022,Q4,License Renewal,Ministry of Agriculture,Central India,256341,162673,242259,94.5,9.7,11.5,1174.55,618,4.8,42.6,70,202.58
+2019,Q4,Tax Filing,Ministry of Commerce,East India,19527,11516,18069,92.5,7.7,14.5,940.45,622,15.9,27.8,88,506.74
+2022,Q4,Land Records,Ministry of Home Affairs,South India,274798,202309,260524,94.8,1.3,13.6,1017.36,686,6.6,53.3,395,170.0
+2023,Q3,Subsidy Distribution,Ministry of Health,Central India,120095,54753,102048,85.0,0.8,1.6,962.65,608,9.4,24.4,408,16.62
+2021,Q4,Subsidy Distribution,Ministry of Agriculture,North India,415849,186982,394802,94.9,25.7,0.9,876.73,260,7.8,23.6,489,795.29
+2021,Q2,License Renewal,Ministry of Home Affairs,East India,289022,191805,211316,73.1,24.6,9.9,1260.21,735,3.0,41.9,130,881.75
+2024,Q2,Passport Services,Ministry of Health,East India,176205,37848,106759,60.6,29.7,4.8,1230.63,182,21.1,55.9,244,670.28
+2021,Q2,Grievance Redressal,Ministry of Defence,South India,221497,138466,132896,60.0,28.5,0.9,527.88,145,11.8,82.8,252,77.13
+2023,Q4,Education Enrollment,Ministry of Skill Development,East India,291481,147944,271471,93.1,23.5,12.8,1617.38,932,18.2,36.6,211,679.81
+2024,Q4,Land Records,Ministry of Education,South India,110680,49317,77098,69.7,27.6,6.8,1134.57,931,16.6,39.7,88,454.58
+2022,Q4,Police Complaints,Ministry of Transport,West India,60283,31507,30207,50.1,18.1,9.2,1740.11,754,20.8,59.2,452,727.31
+2020,Q2,Passport Services,Ministry of Science & Technology,West India,353192,104309,268470,76.0,2.0,2.3,801.14,213,15.5,35.5,318,206.01
+2023,Q4,License Renewal,Ministry of Rural Development,South India,234949,82034,217440,92.5,20.1,10.2,869.93,442,7.6,45.4,100,206.01
+2020,Q4,Education Enrollment,Ministry of Finance,West India,324648,84770,257769,79.4,6.8,7.2,1307.87,491,2.5,39.5,123,70.35
+2020,Q3,Passport Services,Ministry of Education,North India,286880,222890,196334,68.4,17.5,2.3,1516.4,518,2.8,43.0,178,767.46
+2024,Q1,Permit Approvals,Ministry of Defence,West India,388233,109604,356754,91.9,4.9,3.2,1478.97,195,4.6,90.3,16,812.97
+2020,Q3,Education Enrollment,Ministry of Law & Justice,East India,182710,126785,131392,71.9,1.2,14.3,1232.45,698,17.8,45.4,476,81.5
+2023,Q4,Police Complaints,Ministry of Commerce,South India,229673,117754,148001,64.4,27.4,9.5,619.82,405,9.5,87.0,31,180.48
+2019,Q2,Grievance Redressal,Ministry of Transport,West India,253355,71931,217777,86.0,24.5,9.6,1345.06,404,5.7,26.5,114,844.4
+2022,Q1,Grievance Redressal,Ministry of Finance,South India,476001,360513,372734,78.3,10.2,6.5,922.77,789,22.7,48.3,4,884.36
+2020,Q1,Education Enrollment,Ministry of Rural Development,Central India,124644,87267,108298,86.9,5.4,0.9,229.0,719,28.8,24.3,249,430.1
+2020,Q3,Land Records,Ministry of Education,North India,317962,194681,227213,71.5,22.0,8.5,1230.24,514,22.0,94.5,348,191.49
+2019,Q3,Grievance Redressal,Ministry of Education,North India,322544,241409,177951,55.2,6.1,14.7,582.59,156,23.8,78.9,371,159.82
+2021,Q2,Permit Approvals,Ministry of Commerce,North India,2163,1154,1442,66.7,18.2,12.1,14.05,436,25.2,92.9,414,426.14
+2022,Q2,Subsidy Distribution,Ministry of Rural Development,West India,189953,51523,160774,84.6,28.3,9.0,1551.38,73,5.4,31.1,300,955.74
+2022,Q2,License Renewal,Ministry of Commerce,South India,298160,254307,159324,53.4,16.9,11.1,215.73,98,11.0,70.3,298,101.95
+2022,Q3,Subsidy Distribution,Ministry of Finance,South India,420123,100324,225469,53.7,11.6,14.8,361.83,455,12.7,82.2,245,387.84
+2019,Q4,Land Records,Ministry of Health,West India,2604,577,1546,59.4,23.3,4.6,842.61,330,11.0,40.0,147,450.38
